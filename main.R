@@ -85,32 +85,3 @@
 	final_results = subtraction_svm == 0
 	svm_accuracy = sum(final_results) / length(final_results)
 	svm_accuracy
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
