@@ -1,0 +1,3 @@
+- Implemented 4 ML techniques to analyse an attrition faced by a fictitious company as a part of my academic internship at NTU Singapore
+- Applied ML techniques: Logistic Regression, Support Vector Machine, K-Means Clustering and Hierarchical Clustering
+- Implementation time: End of 2017
