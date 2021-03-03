@@ -2,7 +2,7 @@
 
 ####### Logistic Regression ###########
 
-	original_attrition_dataset = read.csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
+	original_attrition_dataset = read.csv("data.csv")
 	binomial_attrition_dataset = original_attrition_dataset
 	columnnames = c("BusinessTravel","Department","EducationField","JobRole","MaritalStatus")
 	columnnames = as.character(columnnames)
